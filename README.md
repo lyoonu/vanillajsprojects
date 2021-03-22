@@ -1,1 +1,2 @@
 # vanillajsprojects
+basic js projects
